@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W30434
   title: དགེ་བའི་བཤེས་གཉེན་ཆེན་པོ་ཤེས་རབ་རྒྱ་མཚོ།
-  volume: ''
+  volume:
+    40a009302b6d4ca4b84748359220e002:
+      image_group_id: I1KG14929
+      title: Volume 1 of dge ba'i bshes gnyen chen po shes rab rgya mtsho
+      volume_number: 1
+      total_pages: 544
   author: ''
+ebook_metadata:
+  title: དགེ་བའི་བཤེས་གཉེན་ཆེན་པོ་ཤེས་རབ་རྒྱ་མཚོ།
+  author: ''
+  sku: P000295
+  cover: cover.jpg
+  layers:
+  - pagination
